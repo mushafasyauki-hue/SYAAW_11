@@ -1,4 +1,3 @@
-﻿<<<<<<< HEAD
 ﻿# Kamu dapat taruh script game mu di file ini.
 
 # Deklarasikan gambar di bawah line ini, menggunakan pernyataan image.
@@ -15,5 +14,6 @@ label start:
     e "Hallo Rehan."
 
     e "Setelah kamu menambahkan cerita, gambar, dan musik, kamu bisa merilis nya ke dunia!"
+
 
     return
